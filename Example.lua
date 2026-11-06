@@ -6,7 +6,7 @@
         local SolUI = loadstring(readfile("SolUI.lua"))()
 ]]
 
-local SolUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/USER/REPO/main/SolUI.lua"))()
+local SolUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/dfgththvdhdghvdth/Library-SOL/refs/heads/main/SolUI.lua"))()
 
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
